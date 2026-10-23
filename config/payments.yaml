@@ -1,0 +1,6 @@
+stripe:
+  publishable_key: pk_live_FAKE51HxYzPublishableExample0000
+  webhook_secret: whsec_FAKEwebhookSecretExample1234567890
+paypal:
+  client_id: FAKE-paypal-client-id-0000
+  client_secret: FAKEpaypalClientSecretExample9876543210
